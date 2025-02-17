@@ -12,7 +12,7 @@ const LinkItems = [
 
 const Navbar = () => {
   return (
-    <nav className="flex justify-between items-center px-10 py-6">
+    <nav className="flex justify-between items-center px-30 py-6">
       <div className="flex items-center space-x-8">
         <Link to={"/"} className="text-3xl font-bold font-sigmar">
           Allen
